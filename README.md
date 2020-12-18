@@ -1,6 +1,7 @@
 # BATTLESHIP
 
 An implementation of battleship game written in C
+The first ever programming project I wrote
 
 ## Getting Started
 
